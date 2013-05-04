@@ -9,7 +9,7 @@ $body_background: #E6E6E6;
 // Right now, we don't really use h1 and h2's correctly.
 // We'll fix it soon!
 
-$h1_color: #323232;
+$h1_color: #E01B98;
 $h2_color: #4B4B4B;
 $h4_color: #292929;
 $h5_color: #4B4B4B;
@@ -25,9 +25,10 @@ $secondary_font: "Helvetica";
 $tertiary_font:  "Arial";
 
 // Gray background is a gradient -- top == 0%, middle == 50%, bottom == 100%
-$gray_background_top_color: 	 #F6F6F6;
+$gray_background_top_color: #1B32E0;
 $gray_background_middle_color: #FAFAFA;
-$gray_background_bottom_color: #FAFAFA;
+$gray_background_bottom_color: #1BE0E0;
+
 
 // The bottom border on the gray backgrounds
 $gray_background_border_color: #C4C4C4;
